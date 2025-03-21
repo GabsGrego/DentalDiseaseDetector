@@ -18,7 +18,7 @@ O projeto evoluiu de um simples conceito de aplicação de IA e ML para um model
 
 ### Link do vídeo demonstrativo de nossa IA: 
 
-
+https://youtu.be/ux-eOPWRHY0
 
 ### Projeto desenvolvido por:
 - Gabriel Grego
